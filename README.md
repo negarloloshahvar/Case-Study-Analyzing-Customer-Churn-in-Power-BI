@@ -5,6 +5,13 @@ For subscription-based businesses, reducing customer churn is a top priority. In
 ## Step One: Exploratory Analysis
 We start exploring the new dataset and revisit creating measures in Power BI to get a better understanding of why customers are churning.
 
+- Data Analysis Flow in the Power Bi:
+  - Data Check
+  - Explor Data
+  - Analyze and Visualise Data
+  - Dashboarding
+  - Communicate Insights
+
 ## Step Two: Investigating Churn Patterns
 We'll continue by leveraging the Power BI knowledge we have gained to further investigate why customers are leaving Databel.
 
